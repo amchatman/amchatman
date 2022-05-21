@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=amchatman&show_icons=true">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amchatman&layout=compact">
+
 **amchatman/amchatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
