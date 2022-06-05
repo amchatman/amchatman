@@ -1,4 +1,4 @@
-### Hi there and welcome to my profile 👋
+### Hello there welcome to my profile 👋
 <div>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amchatman&show_icons=true&bg_color=24292E&title_color=FED054&text_color=FFFFFF&icon_color=7F888E">
   
