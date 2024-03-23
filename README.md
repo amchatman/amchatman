@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&pause=1000&color=D9A648&random=false&width=435&lines=The+Jack+of+All+Trades;Web+developer;Video+Editor;Graphic+Designer;Content+Creator;And+Youtuber)](https://git.io/typing-svg)
+<p align="center">Hello</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&pause=1000&color=D9A648&random=false&width=435&lines=The+Jack+of+All+Trades;Web+developer;Video+Editor;Graphic+Designer;Content+Creator;And+Youtuber" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **amchatman/amchatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
