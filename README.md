@@ -1,8 +1,7 @@
 <p align="center">Hello</p>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&pause=1000&color=D9A648&random=false&width=435&lines=The+Jack+of+All+Trades;Web+developer;Video+Editor;Graphic+Designer;Content+Creator;And+Youtuber" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7A617&random=false&width=435&lines=Web+Developer%2C+Graphic+Designer%2C+Content+Creator;YouTuber%2C+Video+Editor%2C+and+Gamer" alt="Typing SVG" /></a>
 </div>
-
 What am I currently doing in the month of March
 
 - Uploading videos of every Dragon's Dogma side quest on Youtube
